@@ -172,12 +172,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-[Abdullah Grewal] - [@abdullahgrewal](https://www.linkedin.com/in/abdullahgrewal/) -buzzgrewal@gmail.com
+Abdullah Grewal - [@abdullahgrewal](https://www.linkedin.com/in/abdullahgrewal/) -buzzgrewal@gmail.com
 
 Project Link: [https://github.com/yourusername/script-symphony](https://github.com/buzzgrewal/script-symphony)
 
 ---
 
 ✨ *Powered by Mistral-7B and Zonos AI* ✨
-```
-
