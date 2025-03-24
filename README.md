@@ -174,7 +174,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Abdullah Grewal - [@abdullahgrewal](https://www.linkedin.com/in/abdullahgrewal/) -buzzgrewal@gmail.com
 
-Project Link: [https://github.com/yourusername/script-symphony](https://github.com/buzzgrewal/script-symphony)
+Project Link: [https://github.com/buzzgrewal/script-symphony](https://github.com/buzzgrewal/script-symphony)
 
 ---
 
