@@ -79,8 +79,6 @@ graph TD
     C --> D{Narrative Generation}
     D --> E[Zonos TTS]
     E --> F((Audio Output))
-    style C fill:#4CAF50,stroke:#388E3C
-    style E fill:#2196F3,stroke:#1976D2
 ```
 
 ## 💡 Use Cases
